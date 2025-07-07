@@ -4,3 +4,34 @@ requests package-
 1.web api interaction
 2.http get,put,post delte requests
 3.handle json requests,status....
+
+
+#exception handling-->
+command line args
+io operation
+
+
+# types of errors syntax,logical....
+1.builtin exception-base class for all exception
+2.StopIterations-next() method doesnot any point any object
+3.SystemExit-sys.exit() function raise
+4.StadardError
+5.Arithmetric-math calc 10/0
+6.OverflowError-numeric type exceeding the limmit of its size
+7.ZeroDivisioError 10/0
+8.AssertonError-assert statement
+9.EOF Error-till end of last statement,when no IO or return occurs
+10.importError
+11.KeyoardInterrupt
+12.LookupError
+13.IndexError-list[1,2,3,4]
+14.NameError-
+15.EnvironmentError-method consider /no value
+16.IOError-file io read fail
+17.SystemError
+18.ValueError
+19.TypeError
+20.SyntaxError
+21.Identation errors
+22.NotImplementError-oop-inheritance(abstract method)
+
